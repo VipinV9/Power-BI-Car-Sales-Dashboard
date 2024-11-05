@@ -2,7 +2,7 @@
 ## Description
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
-![image](https://github.com/user-attachments/assets/00b893d6-871d-49d0-9171-bb0f494b1c00)
+![image](https://github.com/user-attachments/assets/526c5da5-b5d2-4b5a-82d2-e2edf5e6cc02)
 
 
 ## KPI’s
@@ -23,7 +23,7 @@ The dashboard should provide real-time insights into key performance indicators 
         ◦ YOY Growth in Cars Sold
         ◦ Difference between YTD Cars Sold and PTYD Cars Sold
 
-![image](https://github.com/user-attachments/assets/eefa73fb-d02c-4348-9391-6fa68e6be4a5)
+![image](https://github.com/user-attachments/assets/5a8ce196-2bf5-44cb-9b0e-b0896937c643)
 
 
 ## Charts
